@@ -1,0 +1,10 @@
+pygame
+mido
+python-rtmidi
+librosa
+numpy
+pandas
+yt-dlp
+soundfile
+scipy
+opencv-python

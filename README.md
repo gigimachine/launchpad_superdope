@@ -1,5 +1,7 @@
 🚀 LAUNCHPAD SUPER DOPE 🚀
 
+https://youtube.com/shorts/icdBLMoTd1c?si=MoABygwH4QMAzA6i
+
 Launchpad専用の「自動生成リズムゲーム」兼「DJサンプラーシステム」です。
 YouTubeのURLを投げ込むだけで、AIが楽曲を解析して譜面を自動生成し、さらに曲の「一番おいしいボーカルフレーズ」を切り出して右端のボタンにサンプラーとして割り当てます。
 
@@ -36,6 +38,7 @@ pip install pygame mido python-rtmidi librosa numpy pandas yt-dlp soundfile scip
 (※ YouTubeからの音声抽出に ffmpeg がシステムにインストールされている必要があります)
 
 🎮 遊び方 (How to Play)
+
 1. 楽曲の追加と解析
 ターミナルで python launchpad_superdope_video.py を実行します。
 メインメニューで [0] を選び、好きなYouTube動画のURLをペーストしてください。
